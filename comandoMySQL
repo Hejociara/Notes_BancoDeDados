@@ -1,0 +1,4 @@
+<p> CREATE DATABASE "EscrevaONomeDoBancoDeDados" ; // cria um banco de dados
+<p> SHOW DATABASES;
+<p> USE "EscrevaONomeDoBancoDeDados" ; // usa o banco de dados 
+<p> CREATE TABLE; // nome da tabela
