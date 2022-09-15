@@ -1,4 +1,23 @@
+
 <p> CREATE DATABASE "EscrevaONomeDoBancoDeDados" ; // cria um banco de dados
 <p> SHOW DATABASES;
 <p> USE "EscrevaONomeDoBancoDeDados" ; // usa o banco de dados 
 <p> CREATE TABLE; // nome da tabela
+
+::::::::::::::::
+Esquema - esqueleto // estado inicial do banco de dados
+
+### Arquitetura de 3 esquemas:
+* Catálogo
+* Isolamento
+* Views
+
+_
+Cash
+_
+Modelo relacional - SQL
+DDL - Data Definition Language "views"
+DML -
+
+Interfaces:
+Web clients, app mobile, forms, GUI, NLI, Pesquisa Keyword, Speech input/output, Interfaces (naive(repetitiva)/DBA(DBA Staff)
