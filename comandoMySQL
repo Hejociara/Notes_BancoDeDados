@@ -21,3 +21,26 @@ DML -
 
 Interfaces:
 Web clients, app mobile, forms, GUI, NLI, Pesquisa Keyword, Speech input/output, Interfaces (naive(repetitiva)/DBA(DBA Staff)
+
+Modelo Conceitual (Entidades,Relacionamentos, atributos) - principal foco em esquema
+Entidade == objeto - possui atributos
+
+Atributo - atômico(simples)
+Ex: CPF, RG, nome
+Atributo Composto: adress(Street adress, city, state, zipcode, number home)
+
+Simples/Valorados
+Ex:
+idade, cores, grau acadêmico
+
+Valorado(valor)
+car -> cor -> azul || verde || cinza || branco
+
+Constraints - cardinalidade
+1:1, 1:N, N:N, N:1
+
+Entidade: classe/objeto 
+Relacionamento: agregações(associação)
+Atributos: propriedades elementares
+
+Entidade Fraca
